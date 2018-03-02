@@ -1,1 +1,4 @@
 This file is from the initial repository
+
+This line added on master.
+
