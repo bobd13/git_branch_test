@@ -1,6 +1,8 @@
 This file is from the initial repository
 
+<<<<<<< HEAD
 This line added on master.
-
+=======
 This line added on branch two.
+>>>>>>> branch_two
 
